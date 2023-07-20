@@ -77,8 +77,4 @@ function convertPriceToTime() {
   
 }
 
-
 convertPriceToTime();
-
-
-
